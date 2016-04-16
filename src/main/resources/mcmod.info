@@ -7,7 +7,7 @@
   "mcversion": "${mcversion}",
   "updateUrl": "",
   "authorList": ["RCXcrafter and ArloTheEpic"],
-  "credits": "Original idea by ArloTheEpic, completely recoded from schratch by RCXcrafter",
+  "credits": "Original idea by ArloTheEpic, completely recoded from scratch by RCXcrafter, ported to 1.9 by ArloTheEpic",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
