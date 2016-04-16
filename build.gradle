@@ -22,7 +22,7 @@ group= "com.rcx.placeboeffect" // http://maven.apache.org/guides/mini/guide-nami
 archivesBaseName = "PEmod"
 
 minecraft {
-    version = "1.7.10-10.13.4.1558-1.7.10"
+    version = "1.9-12.16.0.1865-1.9"
     runDir = "eclipse"
 }
 
